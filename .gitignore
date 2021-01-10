@@ -1,0 +1,11 @@
+app/
+docs/
+vendor/
+.phpintel/
+phpunit.phar
+composer.lock
+errors.log
+refactor.php
+index.php
+boot.php
+.DS_Store
